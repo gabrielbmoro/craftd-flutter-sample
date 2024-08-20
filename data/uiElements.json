@@ -1,0 +1,49 @@
+[
+  {
+    "key": "CraftDTextView",
+    "value": {
+      "text": "Chuck Norris",
+      "backgroundHex" : "#9A71F6",
+      "textSize": "24",
+      "textColorHex": "#000000"
+    }
+  },
+  {
+    "key": "CraftDTextView",
+    "value": {
+      "text": "X",
+      "backgroundHex" : "#9A71F6",
+      "textSize": "30",
+      "textColorHex": "#000000"
+    }
+  },
+  {
+    "key": "CraftDTextView",
+    "value": {
+      "text": "Bruce Lee",
+      "backgroundHex" : "#9A71F6",
+      "textSize": "24",
+      "textColorHex": "#000000"
+    }
+  },
+  {
+    "key": "CraftDButton",
+    "value": {
+      "text": "Fight!",
+      "align": "RIGHT",
+      "textAlign": "CENTER",
+      "textAllCaps": true,
+      "textSize": "20",
+      "textColorHex": "#000000",
+      "backgroundHex": "#4287f5",
+      "actionProperties": {
+        "deeplink": "CraftDview://any",
+        "analytics": {
+          "category": "hello",
+          "action": "world",
+          "label": "everywhere"
+        }
+      }
+    }
+  }
+]
